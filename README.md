@@ -206,5 +206,5 @@
 ```
 
 ![Profile Views](https://komarev.com/ghpvc/?username=alenelias123&color=38BDF8&style=flat-square&label=PROFILE+VIEWS)
-
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 </div>
