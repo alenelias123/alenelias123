@@ -12,7 +12,7 @@
 ```
 ┌──────────────────────────────────────────────────────────────┐
 │  root@alenelias123:~$ whoami                                 │
-│  > Full-Stack Developer | Open-Source Enthusiast | Coffee ☕ │
+│  > Full-Stack Developer | Open-Source Contributor | Coffee ☕ │
 └──────────────────────────────────────────────────────────────┘
 ```
 
